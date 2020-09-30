@@ -1,5 +1,8 @@
 # vue3-ts-todo
 
+### just a tutorial on the vue3 and typescript
+
+
 ## Project setup
 ```
 yarn install
